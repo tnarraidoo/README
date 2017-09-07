@@ -4,7 +4,7 @@ This is the GitHub organization page for Amherst College [STAT/MATH 495 Advanced
 
 ## Executive summary tl;dr
 
-Students retrieve and submit the problem sets from here by using GitHub *forks* and *pull requests*.
+Students retrieve and submit the problem sets from this *organization* by using GitHub *forks* and *pull requests*.
 
 ## Problem set submission process
 
