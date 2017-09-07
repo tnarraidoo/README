@@ -10,12 +10,12 @@ Students retrieve and submit the problem sets from this *organization* by using 
 
 The typical work flow for a problem set is:
 
-1. The instructor will post a skeleton outline of each problem set in its own *repository* AKA *repo*, for example `PS01`. This repository will contain the necessary data files and a template R Markdown file.
-1. Students will *fork* (i.e. make a copy of) the repository to their own GitHub account.
-1. Students will *clone* (i.e. download) this forked repository as an RStudio project on their own machine.
-1. Students will complete the problem set on their own machine.
-1. Students will *commit* and *push* (i.e. upload) their work to the forked copy of the repository in their own GitHub account.
-1. Students will submit their work via *pull request*. This is a request to the owner of the master copy of the repository (in this case the instructor) to inspect and merge the proposed changes.
+1. On GitHub: The instructor will post a skeleton outline of each problem set in its own *repository* AKA *repo*, for example `PS01`. This repository will contain the necessary data files and a template R Markdown file. Let's call this the *master copy* of the repo.
+1. On GitHub: Students will *fork* (i.e. make a copy of) the repo to their own GitHub account.
+1. GitHub -> locally: Students will *clone* (i.e. download) this forked repo *locally* as an RStudio project on their own machine.
+1. Locally: Students will complete the problem set on their own machine.
+1. Locally -> GitHub: Students will *commit* and *push* (i.e. upload) their work to the forked copy of the repo in their own GitHub account.
+1. On GitHub: Students will submit their work via *pull request*. This is a request to the owner of the master copy of the repo (in this case the instructor) to inspect and merge the proposed changes.
 1. Feedback will be delievered.
 1. The instructor will however not complete the final step of the typical pull request: they will not *merge* the proposed changes.
 
